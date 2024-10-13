@@ -1,6 +1,6 @@
 # bikeshare-map-on-maplibre-gl-js
 ## Public Website
-https://shi-works.github.io/bikeshare-map-on-maplibre-gl-js/
+https://shiwaku.github.io/bikeshare-map-on-maplibre/
 
 ## データの取得
 ### gbfs_station_dl.py
