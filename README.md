@@ -4,7 +4,7 @@ https://shiwaku.github.io/bikeshare-map-on-maplibre/
 
 ## データの取得
 ### gbfs_station_dl.py
-- pythonで下記の公共交通オープンデータセンターよりGBFS形式のデータ（station_information.json）を取得します。  
+- pythonで下記の公共交通オープンデータセンターよりGBFS形式のデータ（station_information.json）を取得。  
 [ドコモ・バイクシェア（東京エリア）](https://ckan.odpt.org/dataset/c_bikeshare_gbfs-d-bikeshare/resource/f114f7d1-11c8-4f03-98e1-2a6d2fd53e2e)  
 URL: `https://api-public.odpt.org/api/v4/gbfs/docomo-cycle-tokyo/station_information.json`  
 [ドコモ・バイクシェア（東京エリア以外）](https://ckan.odpt.org/dataset/c_bikeshare_gbfs-d-nationwide-bikeshare/resource/addf55c2-d764-4d2c-9a89-f2a610663953)  
