@@ -12,7 +12,7 @@ URL: `https://api-public.odpt.org/api/v4/gbfs/docomo-cycle/station_information.j
 [HELLOCYCLING](https://ckan.odpt.org/dataset/c_bikeshare_gbfs-openstreet/resource/d45e9650-b243-4f5a-bda6-c2b0cb61e8a3)  
 URL: `https://api-public.odpt.org/api/v4/gbfs/hellocycling/station_information.json`
 - GeoJSON
-[ドコモ・バイクシェア]
+[ドコモ・バイクシェア](https://github.com/shiwaku/bikeshare-map-on-maplibre/blob/main/data/docomo_cycle_station_20241013.geojson)
 [HELLOCYCLING]
 
 ## ライセンス
